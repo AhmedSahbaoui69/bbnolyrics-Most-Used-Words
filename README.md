@@ -1,7 +1,7 @@
 ![img.png](Jupyter_Notebook/img.png)
 # <b> Bbno$ Song Lyrics Analysis : Most Used Words Revealed with Python.</b>
 
-#### In this Jupyter notebook project, I used the BeautifulSoup library to scrape the lyrics of songs by the artist "bbno$".
+#### In this Jupyter notebook project, I used the BeautifulSoup library to scrape the lyrics of all the songs produces by the artist "bbno$", then calculated the most frequent words.
 #### First, I scraped the entire song titles of bbno$ using BeautifulSoup from the website genius.com.
 #### Next, I used those titles to scrape the lyrics for each song using BeautifulSoup from the same website.
 #### Then, I squished all the words into a single list by combining the lyrics of all the songs.
@@ -873,3 +873,9 @@ print(word_counts["sussy"])
 ```python
 df.to_csv('word_count_data/word_counts.csv', index=False)
 ```
+
+# <b>Summary:</b>
+### In summary, we scanned a total of 245 songs(99,413 words) from bbno$ and analyzed the lyrics to identify the top 2O most frequently used words.
+### The results were : ```yeah, like, that, with, your, b*tch, money, don't, baby, sh*t, this, what, know, some, just, ain't, f*ck, bbno$, it's.```
+### It is important to note that while this analysis provides valuable information, the downside is that the lyrics of featured artists were also included in the analysis.
+### Therefore, the top 20 words identified may not be solely representative of bbno$'s own lyrical style.
