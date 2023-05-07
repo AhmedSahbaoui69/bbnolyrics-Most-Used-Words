@@ -7,7 +7,7 @@
 ### Then, I squished all the words into a single list by combining the lyrics of all the songs.
 ### Finally, I used the Counter class from the collections module to count how many times each word appeared in the list.
 
-#### ![Find out more about the project in the Jupyter Notebook  by following this link.](Jupyter_Notebook/bbnomula.ipynb)
+#### <a href="Jupyter_Notebook/bbnomula.ipynb" >Find out more about the project in the Jupyter Notebook  by following this link.</a>
 
 # <b> Results:</b>
 ### Below are the top 20 most frequently used words in Bbno$ songs, with certain recurring words such as 'I', 'you', 'that', etc... excluded from the list:
@@ -125,7 +125,7 @@
 </div>
 
 # Wanna find out what's the count of other words?
-### If you want to know the count of other words, you can consult the ![csv file](Jupyter_Notebook/word_count_data/word_counts.csv) containing all the data or use the cool user friendly Tkinter app I made.
+### If you want to know the count of other words, you can consult the <a href=Jupyter_Notebook/word_count_data/word_counts.csv>csv file</a> containing all the data or use the cool user friendly Tkinter app I made.
 ### The app allows you to simply type in the word you're looking for and get its count.
 ![app.png](screenshots/app.png)
 
