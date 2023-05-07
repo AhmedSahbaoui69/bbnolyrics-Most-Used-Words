@@ -23,7 +23,7 @@
     <tr>
       <th>0</th>
       <td>yeah</td>
-      <td>1237</td>
+      <td>1234</td>
     </tr>
     <tr>
       <th>1</th>
@@ -33,7 +33,7 @@
     <tr>
       <th>2</th>
       <td>baby</td>
-      <td>559</td>
+      <td>558</td>
     </tr>
     <tr>
       <th>3</th>
@@ -63,17 +63,17 @@
     <tr>
       <th>8</th>
       <td>bbno$</td>
-      <td>310</td>
+      <td>230</td>
     </tr>
     <tr>
       <th>9</th>
-      <td>gravy</td>
-      <td>226</td>
+      <td>think</td>
+      <td>214</td>
     </tr>
     <tr>
       <th>10</th>
-      <td>think</td>
-      <td>214</td>
+      <td>gravy</td>
+      <td>206</td>
     </tr>
     <tr>
       <th>11</th>
@@ -113,7 +113,7 @@
     <tr>
       <th>18</th>
       <td>girl</td>
-      <td>177</td>
+      <td>176</td>
     </tr>
     <tr>
       <th>19</th>
@@ -138,6 +138,6 @@ $ pip install -r requirements.txt
 ### After installing all the requirements, locate the ```bbnolyrics/app.py``` file and open it with Python.
 
 # <b>Summary:</b>
-### In summary, I scanned a total of 245 songs (99,413 words) from bbno$ and analyzed the lyrics to identify the top 20 most frequently used words.
+### In summary, I scanned a total of 239 songs (89,695 words) from bbno$ and analyzed the lyrics to identify the top 20 most frequently used words.
 ### It is important to note that while this analysis provides valuable information, the downside is that the lyrics of featured artists were also included in the analysis.
 ### Therefore, the top 20 words identified may not be solely representative of bbno$'s own lyrical style.

@@ -29,8 +29,11 @@ def get_count():
     word = textbox.get().lower()
     count = df.loc[df['Word'] == word, 'Count'].values
     
+    # check if entered word is empty
+    if len(word) < 1:
+        count_label.config(text=f"You haven't entered a word.")
     # display the count 
-    if len(count) > 0:
+    elif len(count) > 0:
         count_label.config(text=f"The count for '{word}' is {count[0]}.")
     else:
         count_label.config(text=f"'{word}' was not found.")
