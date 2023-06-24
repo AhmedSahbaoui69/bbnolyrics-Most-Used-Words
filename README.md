@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <th>1</th>
-      <td>bitch</td>
+      <td>b*tch</td>
       <td>621</td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <th>4</th>
-      <td>shit</td>
+      <td>sh*t</td>
       <td>507</td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <th>7</th>
-      <td>fuck</td>
+      <td>f*ck</td>
       <td>337</td>
     </tr>
     <tr>
